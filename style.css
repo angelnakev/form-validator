@@ -29,3 +29,24 @@ h2 {
 form {
     padding: 30px 40px;
 }
+
+.form-control {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.form-control label {
+    display: block;
+    margin-bottom: 5px;
+    color: #8c9191;
+}
+
+.form-control input {
+    border: 2px solid #dfe8e8;
+    border-radius: 4px;
+    padding: 10px;
+    display: block;
+    width: 100%;
+    font-size: 15px;
+}
